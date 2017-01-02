@@ -1,0 +1,25 @@
+  PID TTY          TIME CMD
+ 8378 pts/2    00:00:00 make
+ 8382 pts/2    00:00:01 node
+ 8454 pts/2    00:00:01 chromium-browse
+ 8504 pts/2    00:00:00 chromium-browse
+ 8883 pts/0    00:00:00 python
+ 9170 pts/2    00:00:00 fish
+ 9189 pts/2    00:00:00 ps
+17963 pts/0    00:00:00 atom
+17965 pts/0    00:03:46 atom
+17980 pts/0    00:00:00 atom
+18002 pts/0    00:03:27 atom
+18021 pts/0    00:19:08 atom
+18070 pts/0    00:00:00 atom
+20318 pts/0    00:00:06 leafpad
+21044 pts/2    00:00:56 chromium-browse
+21054 pts/2    00:00:00 chromium-browse
+21055 pts/2    00:00:00 nacl_helper
+21058 pts/2    00:00:00 chromium-browse
+21113 pts/2    00:00:29 chromium-browse
+21121 pts/2    00:00:00 chromium-browse
+21186 pts/2    00:00:01 chromium-browse
+27418 pts/2    00:04:43 firefox
+29304 pts/0    00:02:31 atom
+29337 pts/0    00:00:00 atom
